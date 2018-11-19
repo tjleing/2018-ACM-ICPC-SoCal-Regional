@@ -4,3 +4,9 @@ We went to the SoCal ICPC regional and got 3rd.  Here's our code and a brief pos
 [Final standings](http://socalcontest.org/history/2018/Scoreboard-2018.shtml)
 
 [Problems](http://socalcontest.org/history/2018/SC2018ICPCProblems.pdf)
+
+
+Postmortem:
+
+(it's over a week late, so take it with a grain of salt)
+
