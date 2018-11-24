@@ -8,7 +8,7 @@ We went to the SoCal ICPC regional and got 3rd.  Here's our code and a brief pos
 
 Postmortem:
 
-(it's basically two week late, so take it with a grain of salt)
+(it's basically two weeks late, so take it with a grain of salt)
 
 Going into the competition we though it was going to be 10 questions, so we split the initial reading 3-4-3, with Victor reading the first segment, Sean reading the middle, and me reading the end.  It was actually 11, so I just took the last four instead.
 
